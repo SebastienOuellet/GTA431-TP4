@@ -19,8 +19,11 @@ Pandas
 # Procédure d'execution #
 
 1- Cloner le projet
+
 2- Installer Anaconda (Utiliser Python 3.7)
+
 3- Installer le Package Jupyter (python -m pip install jupyter)
+
 4- Installation Package Pandas
 
 
