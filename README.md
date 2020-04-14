@@ -1,5 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100px"/> 
-# GTA431-TP4
+
+# GTA431-TP4 #
 
 ## TP #4 - Sébastien Ouellet-Jessy Boucher-Jimmy Eloquin
 
